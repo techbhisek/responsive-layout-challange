@@ -14,18 +14,18 @@ header {
 
 .light {
   background: rgb(140, 198, 63);
-  width: 66.33vw;
+  width: 50vw;
   height: 80vh;
 }
 .dark {
   background: rgb(11, 148, 68);
-  width: 33.33vw;
+  width: 25vw;
   height: 80vh;
   order: -1;
 }
 .yellow {
   background: rgb(245, 238, 49);
-  width: 33.33vw;
+  width: 25vw;
   height: 80vh;
 }
 .main {
